@@ -1,3 +1,14 @@
-__pycache__/
+# Jupyter
 .ipynb_checkpoints/
-.env
+*.ipynb_checkpoints
+
+# Notebook outputs & reports
+*.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
