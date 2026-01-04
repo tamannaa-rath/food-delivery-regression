@@ -96,8 +96,6 @@ food-delivery-time-prediction/
 │
 ├── data/        # Raw and processed datasets
 ├── notebooks/   # EDA, feature engineering, modeling notebooks
-├── src/         # Modular preprocessing, training, evaluation code
-├── models/      # Saved trained models and scalers
 ├── visuals/     # Plots and visual outputs
 ├── reports/     # Final report and summaries
 │
@@ -130,7 +128,6 @@ food-delivery-time-prediction/
 - Recall
 - F1-score
 - Confusion Matrix
-- ROC-AUC
 
 ---
 
@@ -162,5 +159,5 @@ Based on model predictions, this project explores improvements such as:
 ---
 
 ## Author
-Tamanna Rath
-Machine Learning Assignment Project
+- Tamanna Rath
+- Machine Learning Assignment Project
